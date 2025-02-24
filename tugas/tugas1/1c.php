@@ -15,7 +15,7 @@
 
         .row {
             display: flex;
-            gap: px;
+            
         }
 
         .box {
