@@ -1,7 +1,10 @@
 <?php
-$mahasiswa = [['Raflitya', '243040095', 'raflitya123@gmail.com', 'teknik informatika'], 
+$mahasiswa = [['nama' => 'Raflitya',
+               'nim' => '243040095',
+               'email'=> 'raflitya123@gmail.com',
+               'jurusan'=> 'teknik informatika'], 
               ['aceng', '243040065', 'aceng@gmail.com', 'teknik mesin']];
-echo $mahasiswa[5];
+
 ?>
 
 <!DOCTYPE html>
